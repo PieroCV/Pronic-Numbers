@@ -1,0 +1,7 @@
+C:\Users\piaca\Desktop\Programando\C#\Pronic Numbers\Pronic Numbers\bin\Debug\Pronic Numbers.exe.config
+C:\Users\piaca\Desktop\Programando\C#\Pronic Numbers\Pronic Numbers\bin\Debug\Pronic Numbers.exe
+C:\Users\piaca\Desktop\Programando\C#\Pronic Numbers\Pronic Numbers\bin\Debug\Pronic Numbers.pdb
+C:\Users\piaca\Desktop\Programando\C#\Pronic Numbers\Pronic Numbers\obj\Debug\Pronic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\piaca\Desktop\Programando\C#\Pronic Numbers\Pronic Numbers\obj\Debug\Pronic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\piaca\Desktop\Programando\C#\Pronic Numbers\Pronic Numbers\obj\Debug\Pronic Numbers.exe
+C:\Users\piaca\Desktop\Programando\C#\Pronic Numbers\Pronic Numbers\obj\Debug\Pronic Numbers.pdb
